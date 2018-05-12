@@ -1,4 +1,8 @@
 _repo: Linguaggio-e-proverbi-marinareschi_48070
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48070-h/images/cover.jpg
 creator:
   author:
     agent_name: Celesia, Emanuele
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44604'
     url: http://www.gutenberg.org/2009/agents/44604
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48070#Linguaggio-e-proverbi-marinareschi
 gutenberg_bookshelf: IT Folklore
 gutenberg_issued: '2015-01-25'
 gutenberg_type: Text
